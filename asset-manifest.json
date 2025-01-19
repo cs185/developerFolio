@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/CarlShen/static/css/main.9e9862fa.css",
-    "main.js": "/CarlShen/static/js/main.1ec731ee.js",
+    "main.js": "/CarlShen/static/js/main.8c56ba3a.js",
     "static/css/64.bba8fa55.chunk.css": "/CarlShen/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.56dc6704.chunk.js": "/CarlShen/static/js/64.56dc6704.chunk.js",
+    "static/js/64.af65ed01.chunk.js": "/CarlShen/static/js/64.af65ed01.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/CarlShen/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.bda0d7b7.chunk.js": "/CarlShen/static/js/769.bda0d7b7.chunk.js",
+    "static/js/769.a5c9069d.chunk.js": "/CarlShen/static/js/769.a5c9069d.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/CarlShen/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/ornaLogo.png": "/CarlShen/static/media/ornaLogo.d30e837de056b24f01b1.png",
     "static/media/riceLogo.png": "/CarlShen/static/media/riceLogo.12d6a768e018f663cb8f.png",
@@ -26,14 +26,14 @@
     "index.html": "/CarlShen/index.html",
     "static/media/talksCardBack.svg": "/CarlShen/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.9e9862fa.css.map": "/CarlShen/static/css/main.9e9862fa.css.map",
-    "main.1ec731ee.js.map": "/CarlShen/static/js/main.1ec731ee.js.map",
+    "main.8c56ba3a.js.map": "/CarlShen/static/js/main.8c56ba3a.js.map",
     "64.bba8fa55.chunk.css.map": "/CarlShen/static/css/64.bba8fa55.chunk.css.map",
-    "64.56dc6704.chunk.js.map": "/CarlShen/static/js/64.56dc6704.chunk.js.map",
+    "64.af65ed01.chunk.js.map": "/CarlShen/static/js/64.af65ed01.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/CarlShen/static/css/769.b3cbb36b.chunk.css.map",
-    "769.bda0d7b7.chunk.js.map": "/CarlShen/static/js/769.bda0d7b7.chunk.js.map"
+    "769.a5c9069d.chunk.js.map": "/CarlShen/static/js/769.a5c9069d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e9862fa.css",
-    "static/js/main.1ec731ee.js"
+    "static/js/main.8c56ba3a.js"
   ]
 }
